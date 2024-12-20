@@ -48,10 +48,5 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para
 
 ---
 
-## ✉️ **Contato**
-Se tiver dúvidas ou quiser entrar em contato, fique à vontade para nos procurar. Você pode abrir uma _issue_ neste repositório ou enviar uma mensagem direta.
-
----
-
 Feito com ❤️ por Maria Vitória e inteligência artificial 🤖.
 
